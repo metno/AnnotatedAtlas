@@ -2,4 +2,7 @@
 
 Repo for documentation and project management for Annotated Atlas.
 
-This is part of the WeaMyL project.
+## Related Repositories
+
+* MetAlert Ingestor: https://github.com/metno/MetAlert-Ingestor
+* MetAlert Search: https://github.com/metno/MetAlert-Search
