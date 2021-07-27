@@ -3,7 +3,7 @@
 This is the repository for documentation and project management for the Annotated Atlas software
 components.
 
-## Related Repositories
+## Software Components
 
 ### MetAlert Search
 
